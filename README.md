@@ -10,4 +10,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
