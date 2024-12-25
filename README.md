@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -39,10 +40,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,4 +54,9 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
