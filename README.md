@@ -40,23 +40,27 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Backtracking
