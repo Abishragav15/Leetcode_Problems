@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
