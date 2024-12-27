@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
