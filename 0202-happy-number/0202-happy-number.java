@@ -9,5 +9,5 @@ public class Solution {
             }
             n = sum;
         }
-        return n == 1 || n == 7;
+        return (n == 1 || n == 7);
     }}
