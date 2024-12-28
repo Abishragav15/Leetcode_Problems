@@ -17,6 +17,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
