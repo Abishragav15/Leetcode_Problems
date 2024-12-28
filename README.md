@@ -17,6 +17,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -80,4 +82,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
