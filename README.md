@@ -41,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
