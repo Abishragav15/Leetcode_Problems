@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
