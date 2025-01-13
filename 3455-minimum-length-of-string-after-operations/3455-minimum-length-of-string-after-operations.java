@@ -1,6 +1,8 @@
 class Solution {
     public int minimumLength(String s) {
-        if(s.length() <= 2) return s.length();
+        if(s.length() <= 2) {
+            return s.length();
+        }
         int[] right = new int[26];
         int cnt=0;
         for(int i=0;i<s.length();i++){
