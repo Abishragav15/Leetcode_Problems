@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0136-single-number) |
+| [2509-minimize-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Design
 |  |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
