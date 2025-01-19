@@ -26,6 +26,7 @@
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
