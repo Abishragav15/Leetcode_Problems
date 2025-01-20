@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -116,6 +117,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Enumeration
