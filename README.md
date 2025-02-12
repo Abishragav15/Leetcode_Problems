@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Enumeration
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
