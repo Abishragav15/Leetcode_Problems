@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -144,10 +146,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -168,4 +172,8 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
