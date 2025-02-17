@@ -9,6 +9,7 @@
 | [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -159,6 +162,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
