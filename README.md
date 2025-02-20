@@ -10,6 +10,7 @@
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -114,6 +116,7 @@
 | [0113-path-sum-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
