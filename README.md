@@ -55,6 +55,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -66,6 +67,7 @@
 | [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0202-happy-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0043-multiply-strings) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Counting
 |  |
 | ------- |
