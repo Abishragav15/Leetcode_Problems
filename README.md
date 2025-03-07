@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [2509-minimize-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
