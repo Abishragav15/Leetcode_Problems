@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
