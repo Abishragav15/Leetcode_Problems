@@ -42,6 +42,7 @@
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
