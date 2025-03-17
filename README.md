@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
