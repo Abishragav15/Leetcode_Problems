@@ -66,6 +66,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Design
 |  |
 | ------- |
@@ -212,4 +214,12 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0190-reverse-bits) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
