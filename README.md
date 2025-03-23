@@ -41,6 +41,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Array
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
