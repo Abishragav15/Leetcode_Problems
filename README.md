@@ -67,6 +67,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abishragav15/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
 |  |
