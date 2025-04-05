@@ -31,6 +31,7 @@
 | [0263-ugly-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -133,6 +135,7 @@
 | [0113-path-sum-ii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,6 +169,7 @@
 | [0136-single-number](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abishragav15/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -228,4 +233,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
