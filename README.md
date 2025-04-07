@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abishragav15/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -216,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abishragav15/Leetcode_Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Divide and Conquer
 |  |
